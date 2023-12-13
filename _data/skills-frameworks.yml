@@ -1,33 +1,23 @@
-# > name: Name of your framework
-# > weight: Describes how good you know the framework - values from 1 up to 5
-#
-# Example of a framework
-# - name: Framework
-#   weight: 5
-
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
-  weight: 4
-
 - name: Node
-  weight: 1
+  weight: 3
 
 - name: Flutter
-  weight: 2
+  weight: 5
 
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: Spring Boot
   weight: 2
 
 - name: Rails
+  weight: 2
+
+- name: Django
   weight: 4
+
+- name: ASP.NET
+  weight: 1
+
+- name: Flask
+  weight: 4
+
+- name: Codeignitor
+  weight: 3

@@ -1,36 +1,41 @@
-# > name: Name of your Dev Tool
-# > weight: Describes how good you know the tool - values from 1 up to 5
-#
-# Example of a Dev Tool
-# - name: Git
-#   weight: 5
+- name: mySQL
+  weight: 3
 
 - name: Git
   weight: 5
 
-- name: Bash
-  weight: 3
+- name: WSL
+  weight: 4
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
+- name: Docker
   weight: 1
 
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
+- name: Firebase
+  weight: 3
 
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: MongoDB
   weight: 3
 
-- name: Postman
+- name: VS Code
+  weight: 4
+
+- name: Tensorflow
+  weight: 3
+
+- name: Raspberry Pi
+  weight: 2
+
+- name: Terminal
+  weight: 5
+
+- name: AWS lightsail
+  weight: 1
+
+- name: Nginx
+  weight: 2
+
+- name: Google Play Store
   weight: 4
