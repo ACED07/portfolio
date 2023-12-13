@@ -13,7 +13,7 @@
     - tag: Firebase
 
 - name: Wifi localization
-  descr: "Immersion program at Nanyang Technological University. Worked on frontend android app for displaying user location on grid map using Wifi RSSI signal."
+  descr: "Immersion program at Nanyang Technological University. Worked on frontend android app for displaying user location on grid map based on Wifi RSSI signal."
   tags:
     - tag: Kotlin
 
