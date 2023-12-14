@@ -2,8 +2,7 @@
 
 [https://aced07.github.io/portfolio/](https://aced07.github.io/portfolio/)
 
-> This is my portfolio website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach created by Long Do.
-> 
+This is my portfolio website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach created by Long Do.
 
 <!-- LICENSE -->
 
@@ -23,3 +22,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Social Button Animation by [Stéphane Lyver](https://codepen.io/wouwi/pen/Lwrmi)
 * Adapted [Damian Jankowski's](https://codepen.io/dolaron/pen/rNadmOE) color palette for the neumorphism design
 * Based Timeline on [Krishna Babu's](https://codepen.io/krishnab/pen/OPwqbW) version
+* [Formspree](https://formspree.io/)

@@ -6,7 +6,6 @@
 
 - name: Flutter mobile app
   descr: "A Q&A mobile app. Includes group and personal messaging, as well as news feed"
-  demo: https://play.google.com/store/apps/details?id=com.xiohoo.application/
   tags:
     - tag: Flutter
     - tag: Dart
