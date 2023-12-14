@@ -1,5 +1,7 @@
 # ACED07 portfolio <!-- omit in toc -->
 
+* [Portfolio Link](https://aced07.github.io/portfolio/)
+
 > This is my portfolio website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach created by Long Do.
 > 
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
