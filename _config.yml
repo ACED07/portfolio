@@ -1,4 +1,4 @@
-### VALUES YOU SHOULD CHANGE ###
+# bundle exec jekyll serve
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
@@ -15,14 +15,12 @@ username: Aw Cheng En
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Fullstack Developer
-# email: Your E-Mail address for the email button.
-email: awchengen007@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: ACED07
 codepen_username: 
-dev_username: 
+dev_username: aced07
 linkedin_username: aw-cheng-en-0933231b4
 twitter_username: 
 
@@ -81,7 +79,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Here are my contacts!
+contact_description: Send me an email
 
 # GITHUB-METADATA
 # Set this to your forked repository

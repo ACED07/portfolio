@@ -32,10 +32,7 @@
   weight: 5
 
 - name: AWS lightsail
-  weight: 1
-
-- name: Nginx
   weight: 2
 
-- name: Google Play Store
-  weight: 4
+- name: Nginx
+  weight: 1

@@ -130,6 +130,51 @@ a {
   box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
 }
 
+.form-container {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.neumorphism-submit {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 2px solid #a140f7;
+  width: 20rem;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.neumorphism-submit:hover {
+  background-color: #cda1f5;
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+  border: 2px solid #a140f7
+}
+
+.field-neumorphism {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 2px solid #a140f7;
+  margin-top: 1em;
+  padding: 0 0.5em;
+  width: 100%;
+  color: white;
+  border-radius: 10px;
+  font-size: 1.5rem;
+}
+
 /* Preloader */
 
 #preloader {

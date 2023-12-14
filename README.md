@@ -4,11 +4,6 @@
 
 > This is my portfolio website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach created by Long Do.
 > 
-* Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
-* Featured on [Jekyll Themes](https://jekyll-themes.com/neumorphism/)
-* Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
-
-[![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
 
 <!-- LICENSE -->
 
