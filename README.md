@@ -4,12 +4,6 @@
 
 This is my portfolio website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach. Template created by Long Do.
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
