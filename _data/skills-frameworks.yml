@@ -16,7 +16,7 @@
 - name: ASP.NET
   weight: 1
 
-- name: Flask
+- name: Flask/Quart
   weight: 4
 
 - name: Codeignitor
@@ -24,3 +24,27 @@
 
 - name: Svelte
   weight: 3
+
+- name: RAG
+  weight: 5
+
+- name: Gen AI
+  weight: 4
+
+- name: Docker
+  weight: 1
+
+- name: ReactJS
+  weight: 3
+
+- name: Tensorflow
+  weight: 4
+
+- name: AWS
+  weight: 2
+
+- name: Azure
+  weight: 4
+
+- name: Ubuntu
+  weight: 5
