@@ -1,7 +1,29 @@
+- title: PSA International
+  title-url: https://www.globalpsa.com/
+  date: Sep 2024 - Apr 2025
+  subtitle: Internship for 8 months
+  tags:
+    - tag: Quart
+    - tag: ReactJS
+    - tag: Azure
+    - tag: Gen AI
+    - tag: RAG
+    - tag: Big Data
+    - tag: Windows scripting
+  timeline-side: right
+
 - title: Singapore Institude of Technology
   title-url: https://www.singaporetech.edu.sg/
   date: Aug 2022 - 2025
-  subtitle: Bachelor of Science with Honours in Computing Science
+  subtitle: Bachelors Degree in Computing Science
+  tags:
+    - tag: Ruby
+    - tag: Java
+    - tag: SprintBoot
+    - tag: Ruby on Rails
+    - tag: Docker
+    - tag: C
+    - tag: Svelte
   timeline-side: left
 
 - title: Xiohoo (Social Enterprise)
@@ -11,10 +33,23 @@
   tags:
     - tag: Flutter
     - tag: Django
+    - tag: Dart
+    - tag: AWS
+    - tag: PostgreSQL
+    - tag: Firebase
+    - tag: Nginx
   timeline-side: right
 
 - title: Nanyang Polytechnic
   title-url: https://www.nyp.edu.sg/
   date: Apr 2018 - Mar 2021
   subtitle: Diploma in Information Technology
+  tags:
+    - tag: Python
+    - tag: C#
+    - tag: ASP.net
+    - tag: Flask
+    - tag: JavaScript
+    - tag: Kotlin
+    - tag: Swift
   timeline-side: left
