@@ -31,8 +31,14 @@
 - name: Terminal
   weight: 5
 
-- name: AWS lightsail
+- name: AWS
   weight: 2
 
 - name: Nginx
   weight: 1
+
+- name: Azure
+  weight: 4
+
+- name: Ubuntu
+  weight: 5
