@@ -22,3 +22,10 @@
     - tag: Java
     - tag: Springboot
     - tag: mySQL
+
+- name: GTOS CoPilot
+  descr: "A self-help chatbot that leverages RAG technique for domain specific QA"
+  tags:
+    - tag: RAG
+    - tag: ReactJS
+    - tag: Azure
