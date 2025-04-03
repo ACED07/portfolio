@@ -22,9 +22,6 @@
 - name: VS Code
   weight: 4
 
-- name: Tensorflow
-  weight: 3
-
 - name: Raspberry Pi
   weight: 2
 
@@ -41,4 +38,7 @@
   weight: 4
 
 - name: Ubuntu
+  weight: 5
+
+- name: Windows
   weight: 5
