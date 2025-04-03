@@ -36,3 +36,6 @@
 
 - name: PHP
   weight: 3
+
+- name: Command
+  weight: 5
