@@ -40,11 +40,8 @@
 - name: Tensorflow
   weight: 4
 
-- name: AWS
-  weight: 2
+- name: Pytorch
+  weight: 3
 
-- name: Azure
+- name: sklearn
   weight: 4
-
-- name: Ubuntu
-  weight: 5
